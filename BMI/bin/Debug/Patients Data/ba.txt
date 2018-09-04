@@ -1,0 +1,2 @@
+Height: 74 ,Weight: 210 ,BMI: 26.95946, DATE: 8/6/2018 6:21:42 PM
+Height: 74 ,Weight: 210 ,BMI: 26.95946, DATE: 8/6/2018 6:21:44 PM

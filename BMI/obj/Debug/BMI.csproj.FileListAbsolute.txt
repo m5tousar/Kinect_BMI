@@ -1,0 +1,44 @@
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.AboutForm.resources
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.DataForm.resources
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.HistoryForm.resources
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.HomeForm.resources
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.LoginForm.resources
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.MainForm.resources
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.SignUpForm.resources
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.pdb
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\bin\Debug\MySql.Data.dll
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\bin\Debug\MySql.Data.xml
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.csproj.CopyComplete
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.LookUpPatient.resources
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.NewPatient.resources
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.Patient.resources
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.InstructionsForm.resources
+C:\Users\Team telepresence\Documents\Visual Studio 2017\Projects\CSE4317\BMI\BMI\obj\Debug\BMI.csprojAssemblyReference.cache
+C:\Users\uta\Desktop\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\uta\Desktop\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\uta\Desktop\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\uta\Desktop\BMI\BMI\bin\Debug\MySql.Data.xml
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.csprojAssemblyReference.cache
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.AboutForm.resources
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.DataForm.resources
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.HomeForm.resources
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.InstructionsForm.resources
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.LoginForm.resources
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.LookUpPatient.resources
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.MainForm.resources
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.NewPatient.resources
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.Patient.resources
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.SignUpForm.resources
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.csproj.CopyComplete
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\uta\Desktop\BMI\BMI\obj\Debug\BMI.pdb
