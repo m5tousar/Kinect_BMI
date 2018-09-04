@@ -20,3 +20,9 @@ Code for height and waist size is in the folder BMI->BMI->bin->Debug->source
 You must calibrate the camera by figuring out Pixel to Inches ratio in order for it to give you the correct value.
 
 The GUI only runs the executables that is responsible for getting height and waist size. It also opens the port to read the current weight on the weight scale. 
+
+
+Here is a small video I've made explaining the project and showing live demo or it working. 
+
+https://drive.google.com/file/d/1MK4PTULYR6Ii2cgCGhmV3s7m_RKED4Uz/view?usp=sharing
+
